@@ -1,28 +1,10 @@
 {
 "Menu":	[
 	{
-		"IndexNumber": "1",
-		"Category": "VORSPEISEN",
-		"ItemNum": "1",
-		"ItemName": "Samosa",
-		"Description": "1",
-		"Price": " Erbsen"
-	},
-	{
-		"IndexNumber": "2",
-		"Category": "VORSPEISEN",
-		"ItemNum": "2",
-		"ItemName": "Aloo Vada",
-		"Description": "2",
-		"Price": "4"
-	},
-	{
-		"IndexNumber": "3",
-		"Category": "VORSPEISEN",
-		"ItemNum": "3",
-		"ItemName": "Parippu Vada",
-		"Description": "3",
-		"Price": "1"
-	},
+		
+      "id": 1,
+      "title": "hello"
+    
+	}
 ]
 }
