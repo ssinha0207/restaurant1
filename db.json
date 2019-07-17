@@ -14,7 +14,7 @@
 		"ItemNum": "2",
 		"ItemName": "Aloo Vada",
 		"Description": "2",
-		"Price": " serviert mit frischem Salat und Sauce."
+		"Price": "4"
 	},
 	{
 		"IndexNumber": "3",
@@ -22,7 +22,7 @@
 		"ItemNum": "3",
 		"ItemName": "Parippu Vada",
 		"Description": "3",
-		"Price": " serviert mit frischem Salat und Sauce (Empfehlung: mit indischem Tee)"
+		"Price": "1"
 	},
 ]
 }
