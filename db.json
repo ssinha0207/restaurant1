@@ -5,7 +5,7 @@
 		"Category": "VORSPEISEN",
 		"ItemNum": "1",
 		"ItemName": "Samosa",
-		"Description": "Frittierter Snack gefüllt mit Kartoffeln",
+		"Description": "1",
 		"Price": " Erbsen"
 	},
 	{
@@ -13,7 +13,7 @@
 		"Category": "VORSPEISEN",
 		"ItemNum": "2",
 		"ItemName": "Aloo Vada",
-		"Description": "Gewürztes Kartoffelpüree mit würzigem Kichererbsenteig überzogen und gebraten",
+		"Description": "2",
 		"Price": " serviert mit frischem Salat und Sauce."
 	},
 	{
@@ -21,7 +21,7 @@
 		"Category": "VORSPEISEN",
 		"ItemNum": "3",
 		"ItemName": "Parippu Vada",
-		"Description": "Gebratene Linsenkugeln mit Ingwer und Curryblättern",
+		"Description": "3",
 		"Price": " serviert mit frischem Salat und Sauce (Empfehlung: mit indischem Tee)"
 	},
 ]
