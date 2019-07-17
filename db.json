@@ -1,5 +1,4 @@
-{
-	[
+[
 	{
 		"IndexNumber": "1",
 		"Category": "VORSPEISEN",
@@ -24,8 +23,5 @@
 		"Description": "Gebratene Linsenkugeln mit Ingwer und Curryblättern",
 		"Price": " serviert mit frischem Salat und Sauce (Empfehlung: mit indischem Tee)"
 	},
-	{
-		"IndexNumber": ""
-	}
 ]
-}
+
