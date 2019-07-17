@@ -1,4 +1,5 @@
-[
+{
+"Menu":	[
 	{
 		"IndexNumber": "1",
 		"Category": "VORSPEISEN",
@@ -24,3 +25,4 @@
 		"Price": " serviert mit frischem Salat und Sauce (Empfehlung: mit indischem Tee)"
 	},
 ]
+}
